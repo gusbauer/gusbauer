@@ -1,8 +1,8 @@
 # Hola, soy Gustavo Bauer
 
-🎓 Estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)**  
-💻 Enfocado en **Java, SQL, desarrollo backend** y bases de datos  
-📍 Madrid, España  
+Estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)**  
+Enfocado en **Java, SQL, desarrollo backend** y bases de datos  
+Madrid, España  
 
 Me gusta construir proyectos que no se queden solo en la teoría:  
 prácticas de Java bien estructuradas, consultas SQL reales sobre el modelo HR de Oracle y pequeños proyectos que se puedan enseñar a empresas.
@@ -20,11 +20,11 @@ prácticas de Java bien estructuradas, consultas SQL reales sobre el modelo HR d
 
 ## Repositorios destacados
 
-### 🔹 [Java-Basics-Gustavo](https://github.com/gusbauer/Java-Basics-Gustavo)
+### [Java-Basics-Gustavo](https://github.com/gusbauer/Java-Basics-Gustavo)
 Colección organizada de ejercicios de **fundamentos de Java**: condicionales, bucles, arrays, métodos, Scanner, Math, casting…  
 Sirve para ver mi base sólida en programación.
 
-### 🔹 [Java-Projects-Gustavo](https://github.com/gusbauer/Java-Projects-Gustavo)
+### [Java-Projects-Gustavo](https://github.com/gusbauer/Java-Projects-Gustavo)
 Proyectos completos en Java, con lógica real:
 
 - Sistema bancario simple  
@@ -33,7 +33,7 @@ Proyectos completos en Java, con lógica real:
 
 Aquí se ve cómo organizo el código, uso métodos, estructuras de control y planteo la lógica de problemas.
 
-### 🔹 [SQL-Queries-Gustavo](https://github.com/gusbauer/SQL-Queries-Gustavo)
+### [SQL-Queries-Gustavo](https://github.com/gusbauer/SQL-Queries-Gustavo)
 Consultas SQL usando **Oracle SQL Developer** y el modelo de datos **HR**:
 
 - SELECT con filtros avanzados  
@@ -43,7 +43,7 @@ Consultas SQL usando **Oracle SQL Developer** y el modelo de datos **HR**:
 
 Todo organizado por carpetas y con comentarios en el código.
 
-### 🔹 [formularios_html](https://github.com/gusbauer/formularios_html)
+### [formularios_html](https://github.com/gusbauer/formularios_html)
 Ejercicios de formularios en HTML para practicar estructura, inputs y maquetación básica.
 
 ---
