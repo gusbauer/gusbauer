@@ -39,9 +39,6 @@ Consultas SQL usando **Oracle SQL Developer** y el modelo de datos **HR**:
 - SELECT con filtros avanzados  
 - JOINS entre employees, departments, locations, countries, regions  
 - Subconsultas (subqueries)  
-- Consultas sobre JOB_HISTORY (historial de empleos)  
-
-Todo organizado por carpetas y con comentarios en el código.
 
 ### [formularios_html](https://github.com/gusbauer/formularios_html)
 Ejercicios de formularios en HTML para practicar estructura, inputs y maquetación básica.
