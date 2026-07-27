@@ -53,5 +53,3 @@ Seguir mejorando como desarrollador junior, ganar experiencia en entorno profesi
 - SQL y análisis de datos  
 - IA aplicada a proyectos reales
 
-Si quieres ver mi código, puedes empezar por los repos de Java y SQL de arriba
-
