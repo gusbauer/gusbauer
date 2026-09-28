@@ -7,7 +7,7 @@
 📍 Madrid, Spain
 
 Currently studying **Software Development (DAM)** at CEU FP Madrid  
-and **AI Engineering** at The Bridge.
+and **AI Engineering** .
 
 I build **backend, full-stack and AI-powered applications**, working with REST APIs, relational databases, modern frontend frameworks and external API integrations.
 
