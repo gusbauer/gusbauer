@@ -1,0 +1,35 @@
+name: generate arcade contribution graphs
+
+on:
+    schedule:
+        - cron: '0 0 * * *' # Se ejecuta automáticamente cada 24 horas
+    workflow_dispatch:     # Te permite activarlo manualmente cuando quieras
+    push:                  # Se ejecuta si haces un cambio en tu rama main
+        branches:
+            - main
+
+jobs:
+    generate:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 20
+
+        steps:
+            - name: generate contribution graph SVGs
+              uses: abozanona/pacman-contribution-graph@main
+              with:
+                  github_user_name: ${{ github.repository_owner }}
+                  # Aquí pones los juegos que quieras generar separados por coma
+                  # Opciones: pacman, breakout, galaga, puzzle-bobble, bomberman, minesweeper
+                  games: 'pacman,breakout,galaga'
+                  hide_month_labels: 'false'
+
+            # Sube los gráficos generados a la rama oculta "output"
+            - name: push SVGs to the output branch
+              uses: crazy-max/ghaction-github-pages@v3.1.0
+              with:
+                  target_branch: output
+                  build_dir: dist
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
