@@ -109,7 +109,7 @@ Full-stack academic productivity platform designed to manage tasks, track progre
 - Academic calendar integration
 - AI-generated study plans using pending tasks as context
 
-🔗 **Repository:** `ADD_STUDYFLOW_REPOSITORY_LINK`
+🔗 **Repository:** `https://github.com/gusbauer/studyflow-ai`
 
 ---
 
@@ -133,7 +133,7 @@ Full-stack headless e-commerce platform combining modern web development, paymen
 - Sales analytics pipeline with Python and Pandas
 - Power BI dashboard with KPIs and DAX
 
-🔗 **Repository:** `ADD_GSTORE_REPOSITORY_LINK`
+🔗 **Repository:** `https://github.com/gusbauer/react-storefront`
 
 ---
 
@@ -195,7 +195,7 @@ Project focused on advanced persistence concepts and database reverse engineerin
 - Entity generation and customization
 - Persistence context and entity lifecycle management
 
-🔗 **Repository:** `ADD_HIBERNATE_REPOSITORY_LINK`
+🔗 **Repository:** `(https://github.com/gusbauer/java-hibernate-jpa-radiofun)`
 
 ---
 
