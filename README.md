@@ -18,12 +18,10 @@ I build **backend, full-stack and AI-powered applications**, working with REST A
 
 <br><br>
 
-<!-- Tu insignia virtual personalizada (Simulador Doom Link) -->
 <a href="https://github.io" target="_blank">
-  <img src="https://github.com.png" width="130" style="border-radius: 50%; border: 4px solid #24292e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="GitHub Universe Badge gusbauer" />
-  <br>
-  <sub><b>Click para abrir mi Badge de GitHub Universe (DOOM Simulator) 🚀</b></sub>
+  <img src="https://shields.io" alt="GitHub Universe Badge" />
 </a>
+
 
 </div>
 
