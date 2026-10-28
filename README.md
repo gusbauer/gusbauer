@@ -16,6 +16,12 @@ I build **backend, full-stack and AI-powered applications**, working with REST A
 [![GitHub](https://img.shields.io/badge/GitHub-gusbauer-181717?style=for-the-badge&logo=github)](https://github.com/gusbauer)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobauercuerda@gmail.com)
 
+<br><br>
+
+[![GitHub Universe Badge](https://github.com)](https://github.io)
+
+</div>
+
 </div>
 
 ---
