@@ -19,9 +19,13 @@ I build **backend, full-stack and AI-powered applications**, working with REST A
 <br><br>
 
 
+
 ### 🎮 GitHub Universe 2026
 
-[🎮 Play DOOM on my GitHub Universe Badge](https://badger.github.io/virtual/?u=gusbauer)
+[![GitHub Universe 2026 DOOM Badge](assets/universe-doom.png)](https://badger.github.io/virtual/?u=gusbauer)
+
+*My virtual GitHub Universe 2026 badge — powered by DOOM!*
+
 
 
 
