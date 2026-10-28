@@ -18,9 +18,8 @@ I build **backend, full-stack and AI-powered applications**, working with REST A
 
 <br><br>
 
-[![GitHub Universe Badge](https://github.com)](https://github.io)
+[![GitHub Universe Badge](https://github.io)](https://github.io)
 
-</div>
 
 </div>
 
