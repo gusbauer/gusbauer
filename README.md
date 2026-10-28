@@ -20,10 +20,9 @@ I build **backend, full-stack and AI-powered applications**, working with REST A
 
 [![GitHub Universe Badge](https://github.io)](https://github.io)
 
-
 </div>
 
----
+----
 
 ## 👨‍💻 About Me
 
