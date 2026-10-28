@@ -18,9 +18,11 @@ I build **backend, full-stack and AI-powered applications**, working with REST A
 
 <br><br>
 
-<a href="https://github.io" target="_blank">
-  <img src="https://shields.io" alt="GitHub Universe Badge" />
-</a>
+
+### 🎮 GitHub Universe 2026
+
+[🎮 Play DOOM on my GitHub Universe Badge](https://badger.github.io/virtual/?u=gusbauer)
+
 
 
 </div>
