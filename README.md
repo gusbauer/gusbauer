@@ -6,7 +6,7 @@
 
 📍 Madrid, Spain
 
-Currently studying **Software Development (DAM)** at CEU FP Madrid  
+Currently studying **Software Development (DAM)** at  
 and **AI Engineering** .
 
 I build **backend, full-stack and AI-powered applications**, working with REST APIs, relational databases, modern frontend frameworks and external API integrations.
